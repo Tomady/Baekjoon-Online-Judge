@@ -18,5 +18,7 @@ public class Baekjoon3052 {
 		Set<Integer> set = new HashSet<Integer>(list);
 		
 		System.out.println(set.size());
+		
+		sc.close();
 	}
 }
